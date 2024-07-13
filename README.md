@@ -1,5 +1,7 @@
 # Awesome-LLM-Constrained-Decoding
 
+> Towards reliable, controllable and more efficient generation with Large Language Models (LLMs)
+
 A curated list of papers related to constrained decoding of LLM, along with their relevant code and resources.
 
 
