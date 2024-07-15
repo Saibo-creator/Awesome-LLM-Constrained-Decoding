@@ -49,12 +49,14 @@ A curated list of papers related to constrained decoding of LLM, along with thei
 
 
 
-## Benchmark & Datasets
+## Benchmark & Datasets & Evaluation
 
 |  Date    | Paper                                                                                                                                                                               | Publication |
 | :-----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
 | 2024-05 | [COLLIE: Systematic Construction of Constrained Text Generation Tasks](https://arxiv.org/abs/2307.08689)                                                                                                                   |  ICLR <br>  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F18b75ea107ed166d7120c12c162b94f02e20b417%3Ffields%3DcitationCount&query=%24.citationCount&label=citation) |
 | 2023-12 | [BenchCLAMP: A Benchmark for Evaluating Language Models on Syntactic and Semantic Parsing](https://arxiv.org/abs/2206.10668)                                                                                                                   |  NeurIPS Track on Datasets and Benchmarks <br> ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F95e2f656017f9ec5d9cd411b1f744b278131ce6c%3Ffields%3DcitationCount&query=%24.citationCount&label=citation) |
+| 2023-10 | [Evaluating Large Language Models on Controlled Generation Tasks](https://arxiv.org/abs/2310.14542)                                                                                                                  |  Arxiv <br>  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F91b5d8287e2353f667f90641e3d930cc5ee0942e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation) |
+| 2023-09 | [Struc-Bench: Are Large Language Models Really Good at Generating Complex Structured Data?](https://arxiv.org/abs/2309.08963)                                                                                                                  |  Arxiv <br>  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5d0b03d545c6468c943858ce46a865380811d05b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation) |
 | 2020-12 | [CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.165.pdf)                                                                                                                  |  EMNLP Findings <br> ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0119a57cf88ef16e6dc291252fae340bb6b3953c%3Ffields%3DcitationCount&query=%24.citationCount&label=citation) |
 
 
