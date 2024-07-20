@@ -74,11 +74,6 @@ Papers with 🆕 are newly added papers (not necessarily newly published papers)
 | :-----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
 | 2024-04       | ["We Need Structured Output": Towards User-centered Constraints on Large Language Model Output](https://arxiv.org/abs/2404.07362)                                                                                                                      |   Arxiv<br> ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa78f0c4433a34b90fe4a62c226b79af68d7d7deb%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)  |
 
-## Blog
-
-|  Date    | Blog                                                                                                                                                                               | Keywords |
-| :-----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
-| 2024-07 | [Automata-based constraints for language model decoding](https://arxiv.org/abs/2407.08103)                                                                                                                      |   Constrained Decoding, Automata, Language Model  |
 
 ## Disclaimer
 
