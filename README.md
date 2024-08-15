@@ -9,11 +9,34 @@ A curated list of papers related to constrained decoding of LLM, along with thei
 
 - [Awesome-LLM-Constrained-Decoding](#awesome-llm-constrained-decoding)
   - [Table of Contents](#table-of-contents)
+  - [Libraries](#libraries)
   - [Papers](#papers)
   - [Benchmark \& Datasets \& Evaluation](#benchmark--datasets--evaluation)
   - [Survey](#survey)
   - [Disclaimer](#disclaimer)
   - [Contributing](#contributing)
+
+## Libraries
+
+| Library                                | Constraint Type                          | Inference Optimization | Other Features                             | Pros                                           | Cons                                        |
+|----------------------------------------|------------------------------------------|------------------------|--------------------------------------------|------------------------------------------------|---------------------------------------------|
+| epfl-dlab/transformers-CFG              |CFG (EBNF Interface), JSON Schema    | None                   | LLM inference integration                 | Formal grammar support, Compatible with Transformers, Easy to extend for research | Only supports CFG and Transformers, No Optimization at inference |
+| guidance-ai/guidance        | CFG   (Custom Interface) Regex, JSON Schema                               | Token Forcing       | Compatible with Transformers, LLAMA-CPP    | Efficient | No batch inference, no support to VLLM               |
+| outlines-dev/outlines    | CFG                                | Earley                 | Unicode support, Hugging Face ecosystem    | Robust parsing with Unicode support            | Custom interface, integration complexity    |
+| sgl-project/sglang                      | Custom                                   | Not Specified          | LLM inference Engine                       | Focus on LLM optimization                      | Parsing details not specified               |
+| eth-sri/lmql                            | Custom                                   | Not Specified          | Query language for LLMs                    | Powerful query language for LLMs               | Limited grammar support, not standard CFG   |
+| jxnl/instructor                         | Custom                                   | Not Specified          | Instruct-based generation                  | Tailored for instructional content             | Less flexible for other types of generation |
+
+
+Loosely related libraries:
+
+| Library                                | Constraint Type                          | Inference Optimization | Other Features                             | Pros                                           | Cons                                        |
+|----------------------------------------|------------------------------------------|------------------------|--------------------------------------------|------------------------------------------------|---------------------------------------------|
+| noamgat/lm-format-enforcer              | Custom                                   | Not Specified          | Format enforcement for LLMs               | Ensures output format consistency              | Limited to format enforcement               |
+
+| stanfordnlp/dspy                        | Custom                                   | Not Specified          | Integration with Stanford NLP              | Strong NLP integration                         | Parsing and constraint details unspecified  |
+| paralleldrive/sudolang-llm-support      | Custom                                   | Not Specified          | LLM support                                | General LLM support, flexible                  | Lacks detailed parsing and constraint features|
+
 
 
 ## Papers
