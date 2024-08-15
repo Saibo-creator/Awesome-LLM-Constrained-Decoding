@@ -9,12 +9,32 @@ A curated list of papers related to constrained decoding of LLM, along with thei
 
 - [Awesome-LLM-Constrained-Decoding](#awesome-llm-constrained-decoding)
   - [Table of Contents](#table-of-contents)
+  - [Libraries](#libraries)
   - [Papers](#papers)
   - [Benchmark \& Datasets \& Evaluation](#benchmark--datasets--evaluation)
   - [Survey](#survey)
   - [Disclaimer](#disclaimer)
   - [Contributing](#contributing)
 
+## Libraries
+
+
+| Library                                | Feature                                                                                  | Stars |
+|----------------------------------------|---------------------------------------------|-------|
+| [guidance-ai/guidance](https://github.com/guidance-ai/guidance)                   | CFG, Regex, JSON Schema, Token Forcing, compatible with Transformers, LLAMA-CPP | ![Stars](https://img.shields.io/github/stars/guidance-ai/guidance) |
+| [outlines-dev/outlines](https://github.com/outlines-dev/outlines)                  | CFG, Unicode support, Hugging Face ecosystem, VLLM support | ![Stars](https://img.shields.io/github/stars/outlines-dev/outlines) |
+| [sgl-project/sglang](https://github.com/sgl-project/sglang)                      | Regex support, emphasis on LLM inference efficiency, compressed FSM | ![Stars](https://img.shields.io/github/stars/sgl-project/sglang) |
+| [eth-sri/lmql](https://github.com/eth-sri/lmql)                            | Regex support, various constraints, more powerful control flow | ![Stars](https://img.shields.io/github/stars/eth-sri/lmql) |
+| [jxnl/instructor](https://github.com/jxnl/instructor)                         | Try-Reject-Repeat approach to ensure constraints are met | ![Stars](https://img.shields.io/github/stars/jxnl/instructor) |
+| [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer)              | Regex, JSON Schema, Beam Search etc. | ![Stars](https://img.shields.io/github/stars/noamgat/lm-format-enforcer) |
+| [epfl-dlab/transformers-CFG](https://github.com/epfl-dlab/transformers-CFG)              | CFG (EBNF Interface), Compatible with Transformers, Easy to extend for research | ![Stars](https://img.shields.io/github/stars/epfl-dlab/transformers-CFG) |
+
+Disclaimer:
+
+- The libraries listed above are **not** exhaustive and are subject to change.
+- The features mentioned are **100% not** exhaustive and I strongly recommend checking the respective repositories for more details.
+- The libraries are listed by the Github stars
+- If you are the author of a library and would like to add or update the information, please open an issue or submit a pull request.
 
 ## Papers
 
