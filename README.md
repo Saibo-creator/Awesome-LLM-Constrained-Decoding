@@ -18,26 +18,23 @@ A curated list of papers related to constrained decoding of LLM, along with thei
 
 ## Libraries
 
-| Library                                | Constraint Type                          | Inference Optimization | Other Features                             | Pros                                           | Cons                                        |
-|----------------------------------------|------------------------------------------|------------------------|--------------------------------------------|------------------------------------------------|---------------------------------------------|
-| epfl-dlab/transformers-CFG              |CFG (EBNF Interface), JSON Schema    | None                   | LLM inference integration                 | Formal grammar support, Compatible with Transformers, Easy to extend for research | Only supports CFG and Transformers, No Optimization at inference |
-| guidance-ai/guidance        | CFG   (Custom Interface) Regex, JSON Schema                               | Token Forcing       | Compatible with Transformers, LLAMA-CPP    | Efficient | No batch inference, no support to VLLM               |
-| outlines-dev/outlines    | CFG                                | Earley                 | Unicode support, Hugging Face ecosystem    | Robust parsing with Unicode support            | Custom interface, integration complexity    |
-| sgl-project/sglang                      | Custom                                   | Not Specified          | LLM inference Engine                       | Focus on LLM optimization                      | Parsing details not specified               |
-| eth-sri/lmql                            | Custom                                   | Not Specified          | Query language for LLMs                    | Powerful query language for LLMs               | Limited grammar support, not standard CFG   |
-| jxnl/instructor                         | Custom                                   | Not Specified          | Instruct-based generation                  | Tailored for instructional content             | Less flexible for other types of generation |
 
+| Library                                | Feature                                                                                  | Stars |
+|----------------------------------------|---------------------------------------------|-------|
+| [guidance-ai/guidance](https://github.com/guidance-ai/guidance)                   | CFG, Regex, JSON Schema, Token Forcing, compatible with Transformers, LLAMA-CPP | ![Stars](https://img.shields.io/github/stars/guidance-ai/guidance) |
+| [outlines-dev/outlines](https://github.com/outlines-dev/outlines)                  | CFG, Unicode support, Hugging Face ecosystem, VLLM support | ![Stars](https://img.shields.io/github/stars/outlines-dev/outlines) |
+| [sgl-project/sglang](https://github.com/sgl-project/sglang)                      | Regex support, emphasis on LLM inference efficiency, compressed FSM | ![Stars](https://img.shields.io/github/stars/sgl-project/sglang) |
+| [eth-sri/lmql](https://github.com/eth-sri/lmql)                            | Regex support, various constraints, more powerful control flow | ![Stars](https://img.shields.io/github/stars/eth-sri/lmql) |
+| [jxnl/instructor](https://github.com/jxnl/instructor)                         | Try-Reject-Repeat approach to ensure constraints are met | ![Stars](https://img.shields.io/github/stars/jxnl/instructor) |
+| [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer)              | Regex, JSON Schema, Beam Search etc. | ![Stars](https://img.shields.io/github/stars/noamgat/lm-format-enforcer) |
+| [epfl-dlab/transformers-CFG](https://github.com/epfl-dlab/transformers-CFG)              | CFG (EBNF Interface), Compatible with Transformers, Easy to extend for research | ![Stars](https://img.shields.io/github/stars/epfl-dlab/transformers-CFG) |
 
-Loosely related libraries:
+Disclaimer:
 
-| Library                                | Constraint Type                          | Inference Optimization | Other Features                             | Pros                                           | Cons                                        |
-|----------------------------------------|------------------------------------------|------------------------|--------------------------------------------|------------------------------------------------|---------------------------------------------|
-| noamgat/lm-format-enforcer              | Custom                                   | Not Specified          | Format enforcement for LLMs               | Ensures output format consistency              | Limited to format enforcement               |
-
-| stanfordnlp/dspy                        | Custom                                   | Not Specified          | Integration with Stanford NLP              | Strong NLP integration                         | Parsing and constraint details unspecified  |
-| paralleldrive/sudolang-llm-support      | Custom                                   | Not Specified          | LLM support                                | General LLM support, flexible                  | Lacks detailed parsing and constraint features|
-
-
+- The libraries listed above are **not** exhaustive and are subject to change.
+- The features mentioned are **100% not** exhaustive and I strongly recommend checking the respective repositories for more details.
+- The libraries are listed by the Github stars
+- If you are the author of a library and would like to add or update the information, please open an issue or submit a pull request.
 
 ## Papers
 
