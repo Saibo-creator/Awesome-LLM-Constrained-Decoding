@@ -13,6 +13,7 @@ A curated list of papers related to constrained decoding of LLM, along with thei
   - [Papers](#papers)
   - [Benchmark \& Datasets \& Evaluation](#benchmark--datasets--evaluation)
   - [Survey](#survey)
+  - [Blog Posts](#blog-posts)
   - [Disclaimer](#disclaimer)
   - [Contributing](#contributing)
 
@@ -99,6 +100,12 @@ Papers with  are newly added papers (not necessarily newly published papers).
 |  Date    | Paper                                                                                                                                                                               | Publication |
 | :-----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
 | 2024-04       | ["We Need Structured Output": Towards User-centered Constraints on Large Language Model Output](https://arxiv.org/abs/2404.07362)                                                                                                                      |   Arxiv<br> ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa78f0c4433a34b90fe4a62c226b79af68d7d7deb%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)  |
+
+## Blog Posts
+
+- [Leveraging Constrained Sampling for Fill-in-the-Middle Code Completion](https://blog.nielstron.de/2024/08/14/leveraging-constrained-sampling-for-fill-in-the-middle-code-completion/) by nielstron
+- [Proper Well-Formedness for Finite LLM Sampling](https://blog.nielstron.de/2024/08/13/proper-well-formedness-for-finite-llm-sampling/) by nielstron
+- [LLM Decoding with Regex Constraints](https://vivien000.github.io/blog/journal/llm-decoding-with-regex-constraints.html) by Vivien
 
 
 ## Disclaimer
