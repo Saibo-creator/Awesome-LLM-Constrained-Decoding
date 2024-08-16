@@ -103,11 +103,19 @@ Papers with  are newly added papers (not necessarily newly published papers).
 
 ## Blog Posts
 
-- [Leveraging Constrained Sampling for Fill-in-the-Middle Code Completion](https://blog.nielstron.de/2024/08/14/leveraging-constrained-sampling-for-fill-in-the-middle-code-completion/) by nielstron
-- [Proper Well-Formedness for Finite LLM Sampling](https://blog.nielstron.de/2024/08/13/proper-well-formedness-for-finite-llm-sampling/) by nielstron
-- [LLM Decoding with Regex Constraints](https://vivien000.github.io/blog/journal/llm-decoding-with-regex-constraints.html) by Vivien
-- [Constrained Decoding is Posterior Inference](https://saibo-creator.github.io/post/constrained_decoding_is_posterior_inference/) by Saibo-creator
+- [Leveraging Constrained Sampling for Fill-in-the-Middle Code Completion](https://blog.nielstron.de/2024/08/14/leveraging-constrained-sampling-for-fill-in-the-middle-code-completion/)
+- [Proper Well-Formedness for Finite LLM Sampling](https://blog.nielstron.de/2024/08/13/proper-well-formedness-for-finite-llm-sampling/)
+- [LLM Decoding with Regex Constraints](https://vivien000.github.io/blog/journal/llm-decoding-with-regex-constraints.html)
+- [Constrained Decoding is Posterior Inference](https://saibo-creator.github.io/post/constrained_decoding_is_posterior_inference/)
+- [Making Structured Generation Faster Than Unstructured](https://blog.dottxt.co/selective-multiplication.html)
+- [Coding For Structured Generation with LLMs](https://blog.dottxt.co/coding-for-structured-generation.html)
+- [Beating GPT-4 with Open Source](https://blog.dottxt.co/oss-v-gpt4.html)
+- [Prompt Efficiency - Using Structured Generation to get 8-shot performance from 1-shot.](https://blog.dottxt.co/prompt-efficiency.html)
+- [How fast can grammar-structured generation be?](https://blog.dottxt.co/how-fast-cfg.html)
+- [Structured Generation Improves LLM performance: GSM8K Benchmark](https://blog.dottxt.co/performance-gsm8k.html)
+- [Coalescence: making LLM inference 5x faster](https://blog.dottxt.co/coalescence.html)
 
+Many of the blogs are written by [Outlines](https://github.com/outlines-dev) team, many thanks to them for their great work! ❤️
 
 ## Disclaimer
 
