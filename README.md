@@ -29,6 +29,7 @@ A curated list of papers related to constrained decoding of LLM, along with thei
 | [jxnl/instructor](https://github.com/jxnl/instructor)                         | Try-Reject-Repeat approach to ensure constraints are met | ![Stars](https://img.shields.io/github/stars/jxnl/instructor) |
 | [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer)              | Regex, JSON Schema, Beam Search etc. | ![Stars](https://img.shields.io/github/stars/noamgat/lm-format-enforcer) |
 | [epfl-dlab/transformers-CFG](https://github.com/epfl-dlab/transformers-CFG)              | CFG (EBNF Interface), Compatible with Transformers, Easy to extend for research | ![Stars](https://img.shields.io/github/stars/epfl-dlab/transformers-CFG) |
+| [uiuc-focal-lab/syncode](https://github.com/uiuc-focal-lab/syncode)              | CFG generation that supports builtin grammars like JSON, Python, Go, and more | ![Stars](https://img.shields.io/github/stars/uiuc-focal-lab/syncode) |
 
 Disclaimer:
 
