@@ -107,7 +107,7 @@ Papers with  are newly added papers (not necessarily newly published papers).
 - [Leveraging Constrained Sampling for Fill-in-the-Middle Code Completion](https://blog.nielstron.de/2024/08/14/leveraging-constrained-sampling-for-fill-in-the-middle-code-completion/) by nielstron
 - [Proper Well-Formedness for Finite LLM Sampling](https://blog.nielstron.de/2024/08/13/proper-well-formedness-for-finite-llm-sampling/) by nielstron
 - [LLM Decoding with Regex Constraints](https://vivien000.github.io/blog/journal/llm-decoding-with-regex-constraints.html) by Vivien
-- [Constrained Decoding is Posterior Inference](https://saibo-creator.github.io/post/constrained_decoding_is_posterior_inference/) by Saibo-creator
+- [Constrained Decoding is Posterior Inference](https://saibo-creator.github.io/post/2024_07_19_constrained_decoding_is_posterior_inference/) by Saibo-creator
 
 
 ## Disclaimer
