@@ -115,6 +115,7 @@ Papers with  are newly added papers (not necessarily newly published papers).
 - [How fast can grammar-structured generation be?](https://blog.dottxt.co/how-fast-cfg.html)
 - [Structured Generation Improves LLM performance: GSM8K Benchmark](https://blog.dottxt.co/performance-gsm8k.html)
 - [Coalescence: making LLM inference 5x faster](https://blog.dottxt.co/coalescence.html)
+- [Constrained Decoding with Arbitrary Constraints is NP-hard](https://saibo-creator.github.io/post/2024_08_25_constrained_decoding_is_np_complete/)
 
 Many of the blogs are written by [Outlines](https://github.com/outlines-dev) team, many thanks to them for their great work! ❤️
 
