@@ -22,11 +22,13 @@ A curated list of papers related to constrained decoding of LLM, along with thei
 
 | Library                                | Feature                                                                                  | Stars |
 |----------------------------------------|---------------------------------------------|-------|
+｜ [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) | contains a built-in support for CFG and supports JSON Schema through conversion to CFG | ![Stars](https://img.shields.io/github/stars/ggerganov/llama.cpp) |
 | [guidance-ai/guidance](https://github.com/guidance-ai/guidance)                   | CFG, Regex, JSON Schema, Token Forcing, compatible with Transformers, LLAMA-CPP | ![Stars](https://img.shields.io/github/stars/guidance-ai/guidance) |
 | [outlines-dev/outlines](https://github.com/outlines-dev/outlines)                  | CFG, Unicode support, Hugging Face ecosystem, VLLM support | ![Stars](https://img.shields.io/github/stars/outlines-dev/outlines) |
 | [sgl-project/sglang](https://github.com/sgl-project/sglang)                      | Regex support, emphasis on LLM inference efficiency, compressed FSM | ![Stars](https://img.shields.io/github/stars/sgl-project/sglang) |
 | [eth-sri/lmql](https://github.com/eth-sri/lmql)                            | Regex support, various constraints, more powerful control flow | ![Stars](https://img.shields.io/github/stars/eth-sri/lmql) |
 | [jxnl/instructor](https://github.com/jxnl/instructor)                         | Try-Reject-Repeat approach to ensure constraints are met | ![Stars](https://img.shields.io/github/stars/jxnl/instructor) |
+| [microsoft/aici](https://github.com/microsoft/aici)                         | A general framework of LLM controller with native support for CFG, Regex, JSON Schema | ![Stars](https://img.shields.io/github/stars/microsoft/aici) |
 | [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer)              | Regex, JSON Schema, Beam Search etc. | ![Stars](https://img.shields.io/github/stars/noamgat/lm-format-enforcer) |
 | [epfl-dlab/transformers-CFG](https://github.com/epfl-dlab/transformers-CFG)              | CFG (EBNF Interface), Compatible with Transformers, Easy to extend for research | ![Stars](https://img.shields.io/github/stars/epfl-dlab/transformers-CFG) |
 | [uiuc-focal-lab/syncode](https://github.com/uiuc-focal-lab/syncode)              | CFG generation that supports builtin grammars like JSON, Python, Go, and more | ![Stars](https://img.shields.io/github/stars/uiuc-focal-lab/syncode) |
@@ -116,6 +118,7 @@ Papers with  are newly added papers (not necessarily newly published papers).
 - [Structured Generation Improves LLM performance: GSM8K Benchmark](https://blog.dottxt.co/performance-gsm8k.html)
 - [Coalescence: making LLM inference 5x faster](https://blog.dottxt.co/coalescence.html)
 - [Constrained Decoding with Arbitrary Constraints is NP-hard](https://saibo-creator.github.io/post/2024_08_25_constrained_decoding_is_np_complete/)
+- [LLMs are bad at returning code in JSON](https://aider.chat/2024/08/14/code-in-json.html)
 
 Many of the blogs are written by [Outlines](https://github.com/outlines-dev) team, many thanks to them for their great work! ❤️
 
