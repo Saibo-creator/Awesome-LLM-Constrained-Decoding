@@ -14,24 +14,26 @@ A curated list of papers related to constrained decoding of LLM, along with thei
   - [Benchmark \& Datasets \& Evaluation](#benchmark--datasets--evaluation)
   - [Survey](#survey)
   - [Blog Posts](#blog-posts)
+  - [Related Awesome Lists](#related-awesome-lists)
   - [Disclaimer](#disclaimer)
   - [Contributing](#contributing)
 
 ## Libraries
 
 
-| Library                                | Feature                                                                                  | Stars |
-|----------------------------------------|---------------------------------------------|-------|
-| [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) | contains a built-in support for CFG and supports JSON Schema through conversion to CFG | ![Stars](https://img.shields.io/github/stars/ggerganov/llama.cpp) |
-| [guidance-ai/guidance](https://github.com/guidance-ai/guidance)                   | CFG, Regex, JSON Schema, Token Forcing, compatible with Transformers, LLAMA-CPP | ![Stars](https://img.shields.io/github/stars/guidance-ai/guidance) |
-| [outlines-dev/outlines](https://github.com/outlines-dev/outlines)                  | CFG, Unicode support, Hugging Face ecosystem, VLLM support | ![Stars](https://img.shields.io/github/stars/outlines-dev/outlines) |
-| [sgl-project/sglang](https://github.com/sgl-project/sglang)                      | Regex support, emphasis on LLM inference efficiency, compressed FSM | ![Stars](https://img.shields.io/github/stars/sgl-project/sglang) |
-| [eth-sri/lmql](https://github.com/eth-sri/lmql)                            | Regex support, various constraints, more powerful control flow | ![Stars](https://img.shields.io/github/stars/eth-sri/lmql) |
-| [jxnl/instructor](https://github.com/jxnl/instructor)                         | Try-Reject-Repeat approach to ensure constraints are met | ![Stars](https://img.shields.io/github/stars/jxnl/instructor) |
-| [microsoft/aici](https://github.com/microsoft/aici)                         | A general framework of LLM controller with native support for CFG, Regex, JSON Schema | ![Stars](https://img.shields.io/github/stars/microsoft/aici) |
-| [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer)              | Regex, JSON Schema, Beam Search etc. | ![Stars](https://img.shields.io/github/stars/noamgat/lm-format-enforcer) |
-| [epfl-dlab/transformers-CFG](https://github.com/epfl-dlab/transformers-CFG)              | CFG (EBNF Interface), Compatible with Transformers, Easy to extend for research | ![Stars](https://img.shields.io/github/stars/epfl-dlab/transformers-CFG) |
-| [uiuc-focal-lab/syncode](https://github.com/uiuc-focal-lab/syncode)              | CFG generation that supports builtin grammars like JSON, Python, Go, and more | ![Stars](https://img.shields.io/github/stars/uiuc-focal-lab/syncode) |
+| Library                                                                     | Feature                                                                                | Stars                                                                    |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)               | contains a built-in support for CFG and supports JSON Schema through conversion to CFG | ![Stars](https://img.shields.io/github/stars/ggerganov/llama.cpp)        |
+| [guidance-ai/guidance](https://github.com/guidance-ai/guidance)             | CFG, Regex, JSON Schema, Token Forcing, compatible with Transformers, LLAMA-CPP        | ![Stars](https://img.shields.io/github/stars/guidance-ai/guidance)       |
+| [outlines-dev/outlines](https://github.com/outlines-dev/outlines)           | CFG, Unicode support, Hugging Face ecosystem, VLLM support                             | ![Stars](https://img.shields.io/github/stars/outlines-dev/outlines)      |
+| [sgl-project/sglang](https://github.com/sgl-project/sglang)                 | Regex support, emphasis on LLM inference efficiency, compressed FSM                    | ![Stars](https://img.shields.io/github/stars/sgl-project/sglang)         |
+| [eth-sri/lmql](https://github.com/eth-sri/lmql)                             | Regex support, various constraints, more powerful control flow                         | ![Stars](https://img.shields.io/github/stars/eth-sri/lmql)               |
+| [jxnl/instructor](https://github.com/jxnl/instructor)                       | Try-Reject-Repeat approach to ensure constraints are met                               | ![Stars](https://img.shields.io/github/stars/jxnl/instructor)            |
+| [microsoft/aici](https://github.com/microsoft/aici)                         | A general framework of LLM controller with native support for CFG, Regex, JSON Schema  | ![Stars](https://img.shields.io/github/stars/microsoft/aici)             |
+| [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer) | Regex, JSON Schema, Beam Search etc.                                                   | ![Stars](https://img.shields.io/github/stars/noamgat/lm-format-enforcer) |
+| [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar)                       | CFG, careful system optimizations                                                      | ![Stars](https://img.shields.io/github/stars/mlc-ai/xgrammar)            |
+| [epfl-dlab/transformers-CFG](https://github.com/epfl-dlab/transformers-CFG) | CFG (EBNF Interface), Compatible with Transformers, Easy to extend for research        | ![Stars](https://img.shields.io/github/stars/epfl-dlab/transformers-CFG) |
+| [uiuc-focal-lab/syncode](https://github.com/uiuc-focal-lab/syncode)         | CFG generation that supports builtin grammars like JSON, Python, Go, and more          | ![Stars](https://img.shields.io/github/stars/uiuc-focal-lab/syncode)     |
 
 Disclaimer:
 
@@ -46,6 +48,7 @@ Papers with  are newly added papers (not necessarily newly published papers).
 
 |  Date   | Paper                                                                                                                                                                                                        |  Publication   |
 | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------: |
+| 2024-11 | [XGRAMMAR: FLEXIBLE AND EFFICIENT STRUCTURED GENERATION ENGINE FOR LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2411.15100)                                                                                  |     Arxiv      |                
 | 2024-10 | [IterGen: Iterative Structured LLM Generation](https://arxiv.org/abs/2410.07295)                                                                                                                             |     Arxiv      |
 | 2024-08 | [Let Me Speak Freely? A Study on the Impact of Format Restrictions on Performance of Large Language Models](https://arxiv.org/html/2408.02442v1)                                                             |     Arxiv      |
 | 2024-08 | [FANTAstic SEquences and Where to Find Them: Faithful and Efficient API Call Generation through State-tracked Constrained Decoding and Reranking](https://arxiv.org/abs/2407.13945)                          |     Arxiv      |
@@ -89,14 +92,16 @@ Papers with  are newly added papers (not necessarily newly published papers).
 
 ## Benchmark & Datasets & Evaluation
 
-|  Date    | Paper                                                                                                                                                                               | Publication |
-| :-----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
-| 2024-05 | [COLLIE: Systematic Construction of Constrained Text Generation Tasks](https://arxiv.org/abs/2307.08689)                                                                                                                   |  ICLR |
-| 2023-12 | [BenchCLAMP: A Benchmark for Evaluating Language Models on Syntactic and Semantic Parsing](https://arxiv.org/abs/2206.10668)                                                                                                                   |  NeurIPS Track on Datasets and Benchmarks |
-| 2023-10 | [Evaluating Large Language Models on Controlled Generation Tasks](https://arxiv.org/abs/2310.14542)                                                                                                                  |  Arxiv |
-| 2023-09 | [Struc-Bench: Are Large Language Models Really Good at Generating Complex Structured Data?](https://arxiv.org/abs/2309.08963)                                                                                                                  |  Arxiv |
-| 2020-12 | [CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.165.pdf)                                                                                                                  |  EMNLP Findings |
-
+|  Date   | Paper                                                                                                                                               |               Publication                |
+| :-----: | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------: |
+| 2024-05 | [COLLIE: Systematic Construction of Constrained Text Generation Tasks](https://arxiv.org/abs/2307.08689)                                            |                   ICLR                   |
+| 2024-02 | [JSON-mode Eval dataset](https://huggingface.co/datasets/NousResearch/json-mode-eval?row=0)                                                         |                  HF hub                  |
+| 2023-12 | [BenchCLAMP: A Benchmark for Evaluating Language Models on Syntactic and Semantic Parsing](https://arxiv.org/abs/2206.10668)                        | NeurIPS Track on Datasets and Benchmarks |
+| 2023-10 | [Evaluating Large Language Models on Controlled Generation Tasks](https://arxiv.org/abs/2310.14542)                                                 |                  Arxiv                   |
+| 2023-09 | [Struc-Bench: Are Large Language Models Really Good at Generating Complex Structured Data?](https://arxiv.org/abs/2309.08963)                       |                  Arxiv                   |
+| 2021-10 | [NLV corpus](https://nlvcorpus.github.io/)                                                                                                          |                   CHI                    |
+| 2020-12 | [CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.165.pdf)     |              EMNLP Findings              |
+| 2018-09 | [Spider: A large-scale human-labeled dataset for complex and cross-domain semantic parsing and text-to-SQL task ](https://arxiv.org/abs/1809.08887) |                  EMNLP                   |
 
 
 ## Survey
@@ -122,6 +127,10 @@ Papers with  are newly added papers (not necessarily newly published papers).
 - [LLMs are bad at returning code in JSON](https://aider.chat/2024/08/14/code-in-json.html)
 
 Many of the blogs are written by [Outlines](https://github.com/outlines-dev) team, many thanks to them for their great work! ❤️
+
+## Related Awesome Lists
+
+- [awesome-llm-json](https://github.com/imaurer/awesome-llm-json)
 
 ## Disclaimer
 
