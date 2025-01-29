@@ -48,7 +48,7 @@ Papers with  are newly added papers (not necessarily newly published papers).
 
 |  Date   | Paper                                                                                                                                                                                                        |  Publication   |
 | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------: |
-| 2025-01 | [Generating Structured Outputs from Language Models: Benchmark and Studies](https://arxiv.org/pdf/2411.15100)                                                                                  |     Arxiv      |     
+| 2025-01 | [Generating Structured Outputs from Language Models: Benchmark and Studies](https://arxiv.org/abs/2501.10868)                                                                                  |     Arxiv      |     
 | 2024-11 | [XGRAMMAR: FLEXIBLE AND EFFICIENT STRUCTURED GENERATION ENGINE FOR LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2411.15100)                                                                                  |     Arxiv      |                
 | 2024-10 | [IterGen: Iterative Structured LLM Generation](https://arxiv.org/abs/2410.07295)                                                                                                                             |     Arxiv      |
 | 2024-08 | [Let Me Speak Freely? A Study on the Impact of Format Restrictions on Performance of Large Language Models](https://arxiv.org/html/2408.02442v1)                                                             |     Arxiv      |
