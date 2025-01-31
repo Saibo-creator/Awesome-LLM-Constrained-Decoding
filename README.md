@@ -113,6 +113,7 @@ Papers with  are newly added papers (not necessarily newly published papers).
 
 ## Blog Posts
 
+- [The good, the bad, and the ugly of Gemini’s structured outputs](https://dylancastillo.co/posts/gemini-structured-outputs.html) by Dylan Castillo
 - [Leveraging Constrained Sampling for Fill-in-the-Middle Code Completion](https://blog.nielstron.de/2024/08/14/leveraging-constrained-sampling-for-fill-in-the-middle-code-completion/) by nielstron
 - [Proper Well-Formedness for Finite LLM Sampling](https://blog.nielstron.de/2024/08/13/proper-well-formedness-for-finite-llm-sampling/) by nielstron
 - [LLM Decoding with Regex Constraints](https://vivien000.github.io/blog/journal/llm-decoding-with-regex-constraints.html) by Vivien
