@@ -23,7 +23,6 @@ A curated list of papers related to constrained decoding of LLM, along with thei
 
 | Library                                                                     | Feature                                                                                | Stars                                                                    |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)               | contains a built-in support for CFG and supports JSON Schema through conversion to CFG | ![Stars](https://img.shields.io/github/stars/ggerganov/llama.cpp)        |
 | [guidance-ai/guidance](https://github.com/guidance-ai/guidance)             | CFG, Regex, JSON Schema, Token Forcing, compatible with Transformers, LLAMA-CPP        | ![Stars](https://img.shields.io/github/stars/guidance-ai/guidance)       |
 | [outlines-dev/outlines](https://github.com/outlines-dev/outlines)           | CFG, Unicode support, Hugging Face ecosystem, VLLM support                             | ![Stars](https://img.shields.io/github/stars/outlines-dev/outlines)      |
 | [sgl-project/sglang](https://github.com/sgl-project/sglang)                 | Regex support, emphasis on LLM inference efficiency, compressed FSM                    | ![Stars](https://img.shields.io/github/stars/sgl-project/sglang)         |
