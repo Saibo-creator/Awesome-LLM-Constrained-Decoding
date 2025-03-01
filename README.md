@@ -47,6 +47,7 @@ Papers with  are newly added papers (not necessarily newly published papers).
 
 |  Date   | Paper                                                                                                                                                                                                        |  Publication   |
 | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------: |
+| 2025-02 | [Think Inside the JSON: Reinforcement Strategy for Strict LLM Schema Adherence](https://arxiv.org/pdf/2502.14905)                                                                                            |     Arxiv      |
 | 2025-02 | [Flexible and Efficient Grammar-Constrained Decoding](https://arxiv.org/abs/2502.05111)                                                                                                                      |     Arxiv      |     
 | 2025-01 | [Generating Structured Outputs from Language Models: Benchmark and Studies](https://arxiv.org/abs/2501.10868)                                                                                                |     Arxiv      |     
 | 2024-11 | [XGRAMMAR: FLEXIBLE AND EFFICIENT STRUCTURED GENERATION ENGINE FOR LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2411.15100)                                                                                  |     Arxiv      |                
