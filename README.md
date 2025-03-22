@@ -33,6 +33,7 @@ A curated list of papers related to constrained decoding of LLM, along with thei
 | [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar)                       | CFG, careful system optimizations                                                      | ![Stars](https://img.shields.io/github/stars/mlc-ai/xgrammar)            |
 | [epfl-dlab/transformers-CFG](https://github.com/epfl-dlab/transformers-CFG) | CFG (EBNF Interface), Compatible with Transformers, Easy to extend for research        | ![Stars](https://img.shields.io/github/stars/epfl-dlab/transformers-CFG) |
 | [uiuc-focal-lab/syncode](https://github.com/uiuc-focal-lab/syncode)         | CFG generation that supports builtin grammars like JSON, Python, Go, and more          | ![Stars](https://img.shields.io/github/stars/uiuc-focal-lab/syncode)     |
+| [Dan-wanna-M/formatron](https://github.com/Dan-wanna-M/formatron)         | Regex, JSON Schema, CFG, etc           | ![Stars](https://img.shields.io/github/stars/Dan-wanna-M/formatron)     |
 
 Disclaimer:
 
