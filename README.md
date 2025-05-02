@@ -48,6 +48,7 @@ Papers with  are newly added papers (not necessarily newly published papers).
 
 |  Date   | Paper                                                                                                                                                                                                        |  Publication   |
 | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------: |
+| 2025-02 | [CRANE: Reasoning with constrained LLM generation](https://arxiv.org/abs/2502.09061)                                                                                                        |    ICML      |
 | 2025-02 | [Lost in Space: Optimizing Tokens for Grammar-Constrained Decoding](https://arxiv.org/abs/2502.14969)                                                                                                        |    Preprint      |
 | 2025-02 | [Think Inside the JSON: Reinforcement Strategy for Strict LLM Schema Adherence](https://arxiv.org/pdf/2502.14905)                                                                                            |     Preprint      |
 | 2025-02 | [Flexible and Efficient Grammar-Constrained Decoding](https://arxiv.org/abs/2502.05111)                                                                                                                      |     Preprint      |     
