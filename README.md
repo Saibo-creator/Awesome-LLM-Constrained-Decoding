@@ -35,6 +35,7 @@ A curated list of papers related to constrained decoding of LLM, along with thei
 | [uiuc-focal-lab/syncode](https://github.com/uiuc-focal-lab/syncode)         | CFG generation that supports builtin grammars like JSON, Python, Go, and more          | ![Stars](https://img.shields.io/github/stars/uiuc-focal-lab/syncode)     |
 | [Dan-wanna-M/formatron](https://github.com/Dan-wanna-M/formatron)         | Regex, JSON Schema, CFG, etc           | ![Stars](https://img.shields.io/github/stars/Dan-wanna-M/formatron)     |
 | [structuredllm/itergen](https://github.com/structuredllm/itergen)         |  CFG generation and backtracking to handle semantic constraints          | ![Stars](https://img.shields.io/github/stars/structuredllm/itergen)     |
+| [eth-sri/type-constrained-code-generation](https://github.com/eth-sri/type-constrained-code-generation) | TypeScript, including type-safety. | ![Stars](https://img.shields.io/github/stars/eth-sri/type-constrained-code-generation)     |
 
 Disclaimer:
 
@@ -50,6 +51,7 @@ Papers with  are newly added papers (not necessarily newly published papers).
 |  Date   | Paper                                                                                                                                                                                                        |  Publication   |
 | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------: |
 | 2025-02 | [CRANE: Reasoning with constrained LLM generation](https://arxiv.org/abs/2502.09061)                                                                                                        |    ICML      |
+| 2025-05 | [Type-Constrained Code Generation with Language Models](https://pldi25.sigplan.org/details/pldi-2025-papers/25/Type-Constrained-Code-Generation-with-Language-Models)                                                                                                       |    PLDI      |
 | 2025-02 | [Lost in Space: Optimizing Tokens for Grammar-Constrained Decoding](https://arxiv.org/abs/2502.14969)                                                                                                        |    Preprint      |
 | 2025-02 | [Think Inside the JSON: Reinforcement Strategy for Strict LLM Schema Adherence](https://arxiv.org/pdf/2502.14905)                                                                                            |     Preprint      |
 | 2025-02 | [Flexible and Efficient Grammar-Constrained Decoding](https://arxiv.org/abs/2502.05111)                                                                                                                      |     Preprint      |     
