@@ -102,6 +102,7 @@ Papers with  are newly added papers (not necessarily newly published papers).
 
 |  Date   | Paper                                                                                                                                               |               Publication                |
 | :-----: | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------: |
+| 2025-01 | [JsonSchemaBench: Generating Structured Outputs from Language Models: Benchmark and Studies](https://arxiv.org/abs/2501.10868v1) | Preprint |
 | 2024-05 | [COLLIE: Systematic Construction of Constrained Text Generation Tasks](https://arxiv.org/abs/2307.08689)                                            |                   ICLR                   |
 | 2024-02 | [JSON-mode Eval dataset](https://huggingface.co/datasets/NousResearch/json-mode-eval?row=0)                                                         |                  HF hub                  |
 | 2023-12 | [BenchCLAMP: A Benchmark for Evaluating Language Models on Syntactic and Semantic Parsing](https://arxiv.org/abs/2206.10668)                        | NeurIPS Track on Datasets and Benchmarks |
