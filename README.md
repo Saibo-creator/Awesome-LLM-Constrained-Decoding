@@ -34,6 +34,7 @@ A curated list of papers related to constrained decoding of LLM, along with thei
 | [epfl-dlab/transformers-CFG](https://github.com/epfl-dlab/transformers-CFG) | CFG (EBNF Interface), Compatible with Transformers, Easy to extend for research        | ![Stars](https://img.shields.io/github/stars/epfl-dlab/transformers-CFG) |
 | [uiuc-focal-lab/syncode](https://github.com/uiuc-focal-lab/syncode)         | CFG generation that supports builtin grammars like JSON, Python, Go, and more          | ![Stars](https://img.shields.io/github/stars/uiuc-focal-lab/syncode)     |
 | [Dan-wanna-M/formatron](https://github.com/Dan-wanna-M/formatron)         | Regex, JSON Schema, CFG, etc           | ![Stars](https://img.shields.io/github/stars/Dan-wanna-M/formatron)     |
+| [structuredllm/itergen](https://github.com/structuredllm/itergen)         |  CFG generation and backtracking to handle semantic constraints          | ![Stars](https://img.shields.io/github/stars/structuredllm/itergen)     |
 
 Disclaimer:
 
@@ -54,7 +55,7 @@ Papers with  are newly added papers (not necessarily newly published papers).
 | 2025-02 | [Flexible and Efficient Grammar-Constrained Decoding](https://arxiv.org/abs/2502.05111)                                                                                                                      |     Preprint      |     
 | 2025-01 | [Generating Structured Outputs from Language Models: Benchmark and Studies](https://arxiv.org/abs/2501.10868)                                                                                                |     Preprint      |     
 | 2024-11 | [XGRAMMAR: FLEXIBLE AND EFFICIENT STRUCTURED GENERATION ENGINE FOR LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2411.15100)                                                                                  |     Preprint      |                
-| 2024-10 | [IterGen: Iterative Structured LLM Generation](https://arxiv.org/abs/2410.07295)                                                                                                                             |     ICLR      |
+| 2024-10 | [IterGen: Iterative Semantic-aware Structured LLM Generation with Backtracking](https://arxiv.org/abs/2410.07295)                                                                                                                             |     ICLR      |
 | 2024-08 | [Let Me Speak Freely? A Study on the Impact of Format Restrictions on Performance of Large Language Models](https://arxiv.org/html/2408.02442v1)                                                             |     Preprint      |
 | 2024-08 | [FANTAstic SEquences and Where to Find Them: Faithful and Efficient API Call Generation through State-tracked Constrained Decoding and Reranking](https://arxiv.org/abs/2407.13945)                          |     Preprint      |
 | 2024-07 | [Automata-based constraints for language model decoding](https://arxiv.org/abs/2407.08103)                                                                                                                   |      CoLM      |
