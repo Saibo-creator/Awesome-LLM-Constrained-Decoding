@@ -36,7 +36,7 @@ A curated list of papers related to constrained decoding of LLM, along with thei
 | [genlm/genlm-control](https://github.com/genlm/genlm-control) | Arbitrary programmable syntactic and semantic constraints, Constrained decoding as posterior inference, Sequential Monte Carlo | ![Stars](https://img.shields.io/github/stars/genlm/genlm-control)     |
 | [structuredllm/itergen](https://github.com/structuredllm/itergen)         |  CFG generation and backtracking to handle semantic constraints          | ![Stars](https://img.shields.io/github/stars/structuredllm/itergen)     |
 | [eth-sri/type-constrained-code-generation](https://github.com/eth-sri/type-constrained-code-generation) | TypeScript, including type-safety. | ![Stars](https://img.shields.io/github/stars/eth-sri/type-constrained-code-generation)     |
-| [epfl-dlab/jsonschemabench](https://github.com/epfl-dlab/jsonschemabench) | A benchmarking framework for evaluating constrained decoding engines on JSON Schema. Supports Guidance, Outlines, xgBoostGrammar, and more. | ![Stars](https://img.shields.io/github/stars/epfl-dlab/jsonschemabench)     |
+| [epfl-dlab/jsonschemabench](https://github.com/epfl-dlab/jsonschemabench) | A benchmarking framework for evaluating constrained decoding engines on JSON Schema. Supports Guidance, Outlines, XGrammar, OpenAI and more. | ![Stars](https://img.shields.io/github/stars/epfl-dlab/jsonschemabench)     |
 
 Disclaimer:
 
