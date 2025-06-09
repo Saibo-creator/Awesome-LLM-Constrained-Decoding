@@ -33,6 +33,7 @@ A curated list of papers related to constrained decoding of LLM, along with thei
 | [epfl-dlab/transformers-CFG](https://github.com/epfl-dlab/transformers-CFG) | CFG (EBNF Interface), Compatible with Transformers, Easy to extend for research        | ![Stars](https://img.shields.io/github/stars/epfl-dlab/transformers-CFG) |
 | [uiuc-focal-lab/syncode](https://github.com/uiuc-focal-lab/syncode)         | CFG generation that supports builtin grammars like JSON, Python, Go, and more          | ![Stars](https://img.shields.io/github/stars/uiuc-focal-lab/syncode)     |
 | [Dan-wanna-M/formatron](https://github.com/Dan-wanna-M/formatron)         | Regex, JSON Schema, CFG, etc           | ![Stars](https://img.shields.io/github/stars/Dan-wanna-M/formatron)     |
+| [genlm/genlm-control](https://github.com/genlm/genlm-control) | Arbitrary programmable syntactic and semantic constraints, Constrained decoding as posterior inference, Sequential Monte Carlo | ![Stars](https://img.shields.io/github/stars/genlm/genlm-control)     |
 | [structuredllm/itergen](https://github.com/structuredllm/itergen)         |  CFG generation and backtracking to handle semantic constraints          | ![Stars](https://img.shields.io/github/stars/structuredllm/itergen)     |
 | [eth-sri/type-constrained-code-generation](https://github.com/eth-sri/type-constrained-code-generation) | TypeScript, including type-safety. | ![Stars](https://img.shields.io/github/stars/eth-sri/type-constrained-code-generation)     |
 
@@ -49,6 +50,8 @@ Papers with  are newly added papers (not necessarily newly published papers).
 
 |  Date   | Paper                                                                                                                                                                                                        |  Publication   |
 | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------: |
+| 2025-05 | [Fast Controlled Generation from Language Models with Adaptive Weighted Rejection Sampling](https://arxiv.org/abs/2504.05410) |  Preprint |
+| 2025-05 | [Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo](https://arxiv.org/abs/2504.13139) |  ICLR |
 | 2025-04 | [Efficient and Asymptotically Unbiased Constrained Decoding for Large Language Models](https://arxiv.org/abs/2504.09135) |   AISTATS           |
 | 2025-03 | [Constrained Language Generation with Discrete Diffusion Models](https://arxiv.org/abs/2503.09790) |  Preprint        |
 | 2025-02 | [CRANE: Reasoning with constrained LLM generation](https://arxiv.org/abs/2502.09061)                                                                                                        |    ICML      |
