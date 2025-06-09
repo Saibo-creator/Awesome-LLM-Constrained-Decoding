@@ -55,7 +55,6 @@ Papers with  are newly added papers (not necessarily newly published papers).
 | 2025-05 | [Fast Controlled Generation from Language Models with Adaptive Weighted Rejection Sampling](https://arxiv.org/abs/2504.05410) |  Preprint |
 | 2025-05 | [Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo](https://arxiv.org/abs/2504.13139) |  ICLR |
 | 2025-04 | [Efficient and Asymptotically Unbiased Constrained Decoding for Large Language Models](https://arxiv.org/abs/2504.09135) |   AISTATS           |
-| 2025-03 | [Constrained Language Generation with Discrete Diffusion Models](https://arxiv.org/abs/2503.09790) |  Preprint        |
 | 2025-02 | [CRANE: Reasoning with constrained LLM generation](https://arxiv.org/abs/2502.09061)                                                                                                        |    ICML      |
 | 2025-05 | [Type-Constrained Code Generation with Language Models](https://pldi25.sigplan.org/details/pldi-2025-papers/25/Type-Constrained-Code-Generation-with-Language-Models)                                                                                                       |    PLDI      |
 | 2025-02 | [Lost in Space: Optimizing Tokens for Grammar-Constrained Decoding](https://arxiv.org/abs/2502.14969)                                                                                                        |    Preprint      |
@@ -106,6 +105,15 @@ Papers with  are newly added papers (not necessarily newly published papers).
 | 2018-04 | [Incorporating Discriminator in Sentence Generation: a Gibbs Sampling Method](https://ojs.aaai.org/index.php/AAAI/article/view/11990)                                                                        |      AAAI      |
 | 2017-12 | [Guided Open Vocabulary Image Captioning with Constrained Beam Search](https://aclanthology.org/D17-1098/)                                                                                                   |     EMNLP      |
 | 2017-06 | [Lexically Constrained Decoding for Sequence Generation Using Grid Beam Search](https://aclanthology.org/P17-1141/)                                                                                          |      ACL       |
+
+
+**Constrained Decoding for Diffusion Models**
+
+|  Date   | Paper                                                                                                                                                                                                        |  Publication   |
+| :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------: |
+| 2025-05 | [DINGO: Constrained Inference for Diffusion LLMs](https://arxiv.org/abs/2505.23061)                | Preprint |
+| 2025-03 | [Constrained Language Generation with Discrete Diffusion Models](https://arxiv.org/abs/2503.09790) |  Preprint        |
+
 
 
 
