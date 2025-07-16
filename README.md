@@ -157,6 +157,7 @@ Papers with  are newly added papers (not necessarily newly published papers).
 - [Constrained Decoding with Arbitrary Constraints is NP-hard](https://saibo-creator.github.io/post/2024_08_25_constrained_decoding_is_np_complete/)
 - [LLMs are bad at returning code in JSON](https://aider.chat/2024/08/14/code-in-json.html)
 - [Say what I mean](https://github.com/appier-research/structure-gen/blob/main/updates.md)
+- [LLGuidance: Making Structured Outputs Go Brrr](https://guidance-ai.github.io/llguidance/llg-go-brrr)
 
 Many of the blogs are written by [Outlines](https://github.com/outlines-dev) team, many thanks to them for their great work! ❤️
 
