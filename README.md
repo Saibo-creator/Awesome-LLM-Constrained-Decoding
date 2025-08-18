@@ -38,6 +38,7 @@ A curated list of papers related to constrained decoding of LLM, along with thei
 | [eth-sri/type-constrained-code-generation](https://github.com/eth-sri/type-constrained-code-generation) | TypeScript, including type-safety. | ![Stars](https://img.shields.io/github/stars/eth-sri/type-constrained-code-generation)     |
 | [snowkylin/circuit-transformer](https://github.com/snowkylin/circuit-transformer) | Generating logical circuits that are strictly equivalent to given Boolean functions. | ![Stars](https://img.shields.io/github/stars/snowkylin/circuit-transformer)     |
 | [epfl-dlab/jsonschemabench](https://github.com/epfl-dlab/jsonschemabench) | A benchmarking framework for evaluating constrained decoding engines on JSON Schema. Supports Guidance, Outlines, XGrammar, OpenAI and more. | ![Stars](https://img.shields.io/github/stars/epfl-dlab/jsonschemabench)     |
+| [eth-sri/constrained-diffusion](https://github.com/eth-sri/constrained-diffusion) | Diffusion LLMs, Multi-Region Infilling (CFG) | ![Stars](https://img.shields.io/github/stars/eth-sri/constrained-diffusion) |
 
 Disclaimer:
 
@@ -49,6 +50,8 @@ Disclaimer:
 ## Papers
 
 Papers with  are newly added papers (not necessarily newly published papers).
+
+**Constrained Decoding for Autoregressive Models**
 
 |  Date   | Paper                                                                                                                                                                                                        |  Publication   |
 | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------: |
@@ -113,6 +116,7 @@ Papers with  are newly added papers (not necessarily newly published papers).
 
 |  Date   | Paper                                                                                                                                                                                                        |  Publication   |
 | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------: |
+| 2025-08 | [Constrained Decoding of Diffusion LLMs with Context-Free Grammars](https://arxiv.org/abs/2508.10111) | Preprint |
 | 2025-05 | [DINGO: Constrained Inference for Diffusion LLMs](https://arxiv.org/abs/2505.23061)                | Preprint |
 | 2025-03 | [Constrained Language Generation with Discrete Diffusion Models](https://arxiv.org/abs/2503.09790) |  Preprint        |
 
