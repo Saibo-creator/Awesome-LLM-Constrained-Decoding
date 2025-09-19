@@ -55,7 +55,7 @@ Papers with  are newly added papers (not necessarily newly published papers).
 
 |  Date   | Paper                                                                                                                                                                                                        |  Publication   |
 | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------: |
-| 2025-07 | [Grammar-Constrained Decoding Makes Large Language Models Better Logical Parsers](https://arxiv.org/abs/2506.01151](https://aclanthology.org/2025.acl-industry.34/)) | ACL |
+| 2025-07 | [Grammar-Constrained Decoding Makes Large Language Models Better Logical Parsers](https://aclanthology.org/2025.acl-industry.34/) | ACL |
 | 2025-06 | [Earley-Driven Dynamic Pruning for Efficient Structured Decoding](https://arxiv.org/abs/2506.01151) | ICML |
 | 2025-05 | [Fast Controlled Generation from Language Models with Adaptive Weighted Rejection Sampling](https://arxiv.org/abs/2504.05410) |  Preprint |
 | 2025-05 | [Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo](https://arxiv.org/abs/2504.13139) |  ICLR |
