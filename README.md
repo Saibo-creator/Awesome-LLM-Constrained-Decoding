@@ -39,6 +39,8 @@ A curated list of papers related to constrained decoding of LLM, along with thei
 | [snowkylin/circuit-transformer](https://github.com/snowkylin/circuit-transformer) | Generating logical circuits that are strictly equivalent to given Boolean functions. | ![Stars](https://img.shields.io/github/stars/snowkylin/circuit-transformer)     |
 | [epfl-dlab/jsonschemabench](https://github.com/epfl-dlab/jsonschemabench) | A benchmarking framework for evaluating constrained decoding engines on JSON Schema. Supports Guidance, Outlines, XGrammar, OpenAI and more. | ![Stars](https://img.shields.io/github/stars/epfl-dlab/jsonschemabench)     |
 | [eth-sri/constrained-diffusion](https://github.com/eth-sri/constrained-diffusion) | Diffusion LLMs, Multi-Region Infilling (CFG) | ![Stars](https://img.shields.io/github/stars/eth-sri/constrained-diffusion) |
+| [grammarllm](https://github.com/misaelmongiovi/grammarllm) | LLprefix, DPDA | ![Stars](https://img.shields.io/github/stars/misaelmongiovi/grammarllm)     |
+
 
 Disclaimer:
 
@@ -55,6 +57,9 @@ Papers with  are newly added papers (not necessarily newly published papers).
 
 |  Date   | Paper                                                                                                                                                                                                        |  Publication   |
 | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------: |
+| 2025-07 | [GRAMMAR-LLM: Grammar-Constrained Natural Language Generation](https://aclanthology.org/2025.findings-acl.177/) | ACL Findings |
+| 2025-07 | [Pre3: Enabling Deterministic Pushdown Automata for Faster Structured LLM Generation](https://aclanthology.org/2025.acl-long.551/) | ACL |
+| 2025-07 | [Syntactic Control of Language Models by Posterior Inference](https://aclanthology.org/2025.findings-acl.1300/) | ACL Findings |
 | 2025-06 | [Earley-Driven Dynamic Pruning for Efficient Structured Decoding](https://arxiv.org/abs/2506.01151) | ICML |
 | 2025-05 | [Fast Controlled Generation from Language Models with Adaptive Weighted Rejection Sampling](https://arxiv.org/abs/2504.05410) |  Preprint |
 | 2025-05 | [Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo](https://arxiv.org/abs/2504.13139) |  ICLR |
