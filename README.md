@@ -58,6 +58,7 @@ Papers with  are newly added papers (not necessarily newly published papers).
 
 |  Date   | Paper                                                                                                                                                                                                        |  Publication   |
 | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------: |
+| 2026-01 | [Thinking Before Constraining: A Unified Decoding Framework for Large Language Models](https://arxiv.org/abs/2601.07525) | Preprint |
 | 2025-07 | [Grammar-Constrained Decoding Makes Large Language Models Better Logical Parsers](https://aclanthology.org/2025.acl-industry.34/) | ACL |
 | 2025-07 | [GRAMMAR-LLM: Grammar-Constrained Natural Language Generation](https://aclanthology.org/2025.findings-acl.177/) | ACL Findings |
 | 2025-07 | [Pre3: Enabling Deterministic Pushdown Automata for Faster Structured LLM Generation](https://aclanthology.org/2025.acl-long.551/) | ACL |
