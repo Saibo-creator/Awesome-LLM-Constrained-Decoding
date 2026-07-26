@@ -135,6 +135,7 @@ Papers with  are newly added papers (not necessarily newly published papers).
 
 |  Date   | Paper                                                                                                                                               |               Publication                |
 | :-----: | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------: |
+| 2026-01 | [StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs](https://openreview.net/forum?id=buDwV7LUA7) | TMLR |
 | 2025-08 | [JSON-mode Eval Cleaned/Extended, SMILES Eval and HumanEval MRI C++](https://huggingface.co/collections/eth-sri/constrained-diffusion-tasks-689dc25e7ae9a5b6da001e96) | HF Hub |
 | 2025-01 | [JsonSchemaBench: Generating Structured Outputs from Language Models: Benchmark and Studies](https://arxiv.org/abs/2501.10868v1) | ICML ES-FoMo Workshop |
 | 2024-05 | [COLLIE: Systematic Construction of Constrained Text Generation Tasks](https://arxiv.org/abs/2307.08689)                                            |                   ICLR                   |
@@ -185,7 +186,6 @@ This list is not exhaustive and will be updated regularly. If you have any sugge
 ## Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue. Please make sure to read the [Contributing Guidelines](CONTRIBUTING.md) before contributing.
-
 
 
 
